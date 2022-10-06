@@ -13,4 +13,5 @@
 
 
 ### Pop Up markers were also generated using Google Maps API's to get a better picture of some vacation destinations using our coordinates
-![WeatherPy_vacation_map](https://user-images.githubusercontent.com/47859209/194224522-7d2ebde7-3061-4da3-9526-c58dfefa68ef.png)
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/47859209/194224595-fb7aa48d-3435-4a8b-bd80-ffb9b98cec8c.png)
